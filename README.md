@@ -76,4 +76,4 @@ See the [LICENSE](https://github.com/veracode/.github/blob/main/LICENSE) for det
 
 ## Acknowledgements
 
-This work is indebted to [CTCampbell](https://github.com/ctcampbell)'s initial example for how to authenticate with Postman.
+This work is indebted to [CTCampbell](https://github.com/ctcampbell)'s initial example for how to authenticate with Postman
